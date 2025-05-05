@@ -4,7 +4,7 @@
         "nombre": "Arepachu",
         "altura": 1.2,
         "habilidad": "Dispara arepas ardientes",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/arepachu.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/004.png",
         "frase": "La vida es como una arepa: se le da la vuelta cuando ya está doradita."
     },
     {
@@ -12,7 +12,7 @@
         "nombre": "Silleton",
         "altura": 1.5,
         "habilidad": "Carga flores y sabiduría",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/silleton.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/006.png",
         "frase": "El que no carga su flor, no embellece el camino."
     },
     {
@@ -20,7 +20,7 @@
         "nombre": "Parqueachu",
         "altura": 0.9,
         "habilidad": "Se camufla en parques y esquinas",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/parqueachu.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/038.png",
         "frase": "En la quietud de un parque, la mente florece."
     },
     {
@@ -28,7 +28,7 @@
         "nombre": "Tusaferoz",
         "altura": 1.4,
         "habilidad": "Sana corazones rotos con ritmo y flow",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/tusaferoz.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/013.png",
         "frase": "De cada tusa se aprende a bailar solo."
     },
     {
@@ -36,7 +36,7 @@
         "nombre": "Guarocillo",
         "altura": 1.1,
         "habilidad": "Lanza guarapo paralizante",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/guarocillo.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/016.png",
         "frase": "El dulce se encuentra donde menos se espera."
     },
     {
@@ -44,7 +44,7 @@
         "nombre": "Tamalardo",
         "altura": 1.7,
         "habilidad": "Aplasta con envoltura de hoja",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/tamalardo.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/019.png",
         "frase": "Hasta el más fuerte se ablanda en la olla del tiempo."
     },
     {
@@ -52,7 +52,7 @@
         "nombre": "Montañako",
         "altura": 2.0,
         "habilidad": "Escala cualquier terreno sin cansarse",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/montanako.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/023.png",
         "frase": "La cima solo la alcanza quien sigue subiendo."
     },
     {
@@ -60,7 +60,7 @@
         "nombre": "Jardineta",
         "altura": 1.3,
         "habilidad": "Florece y aturde con aroma paisa",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/jardineta.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/025.png",
         "frase": "Donde hay flores, hay esperanza."
     },
     {
@@ -68,7 +68,7 @@
         "nombre": "Bandejín",
         "altura": 1.8,
         "habilidad": "Invoca frijoles energéticos",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/bandejin.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/035.png",
         "frase": "Con buena sazón, hasta la lucha se disfruta."
     },
     {
@@ -76,7 +76,7 @@
         "nombre": "Medellon",
         "altura": 1.6,
         "habilidad": "Controla la tecnología del metro",
-        "imagen": "https://tu-bucket-s3.s3.amazonaws.com/medellon.png",
+        "imagen": "https://pokeneas-teis.s3.us-east-1.amazonaws.com/010.png",
         "frase": "El orden y el progreso se toman de la mano."
     }
 ]
