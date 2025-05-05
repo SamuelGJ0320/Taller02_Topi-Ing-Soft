@@ -21,7 +21,7 @@ jobs:
       run: |
         docker login -u $DOCKER_USER -p $DOCKER_PASS
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag samuelgj20/taller02-topi-ing-soft:latest
+      run: docker build . --file Dockerfile --tag samuelgj20/taller02_topi-ing-soft:latest
       
     - name: Docker Push
-      run: docker push samuelgj20/taller02-topi-ing-soft
+      run: docker push samuelgj20/taller02_topi-ing-soft
