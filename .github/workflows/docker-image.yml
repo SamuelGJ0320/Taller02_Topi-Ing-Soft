@@ -24,7 +24,7 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v5
         with:
-          context: .
-          file: ./Dockerfile
+          context: ./pokenea/Taller02
+          file: ./pokenea/Taller02/Dockerfile
           push: true
           tags: samuelgj20/taller02_topi-ing-soft:latest
